@@ -1,4 +1,6 @@
-[![Yu1's GitHub stats](https://github-readme-stats.vercel.app/api?username=PCG0&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img align='left' src='https://github-readme-stats.vercel.app/api?username=PCG0&show_icons=true&count_private=true&theme=dark'>
 
-[![Yu1's github activity graph](https://activity-graph.herokuapp.com/graph?username=PCG0&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+---
+![](https://img.shields.io/static/v1?style=github&message=Archlinux&color=c5c8c6&logo=Archlinux&logoColor=blue&label= "Archlinux")
+![](https://img.shields.io/static/v1?style=github&message=Vim&color=c5c8c6&logo=Vim&logoColor=000000&label= "Vim")
+<img align='left' src='https://activity-graph.herokuapp.com/graph?username=PCG0&theme=github'>
